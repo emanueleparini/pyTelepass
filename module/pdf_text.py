@@ -1,4 +1,4 @@
-# Iride AI
+# pyTelepass
 # Copyright 2022 Emanuele Parini
 #
 # Module for extract text in PDF readable
